@@ -23,6 +23,12 @@ jobs:
 
       - name: Build Docusaurus site
         run: npm run build
+      
+      - name: Configure Git author using secrets
+        run: |
+          git config --global user.name "${{ secrets.GH_CONFIG_NAME }}"
+          git config --global user.email "${{ secrets.GH_CONFIG_EMAIL }}"
+
 
       - name: Deploy to GitHub Pages
         env:
