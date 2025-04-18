@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/04kash.github.io/blog</id>
+    <id>https://github.com/blog</id>
     <title>Kashish's Blog Blog</title>
     <updated>2025-04-18T01:41:03.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/04kash.github.io/blog"/>
+    <link rel="alternate" href="https://github.com/blog"/>
     <subtitle>Kashish's Blog Blog</subtitle>
-    <icon>https://github.com/04kash.github.io/img/favicon.ico</icon>
+    <icon>https://github.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Why I Started This Blog]]></title>
-        <id>https://github.com/04kash.github.io/blog/getting-started</id>
-        <link href="https://github.com/04kash.github.io/blog/getting-started"/>
+        <id>https://github.com/blog/getting-started</id>
+        <link href="https://github.com/blog/getting-started"/>
         <updated>2025-04-18T01:41:03.000Z</updated>
         <summary type="html"><![CDATA[Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).]]></summary>
         <content type="html"><![CDATA[<p>Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).

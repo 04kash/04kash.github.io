@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Kashish's Blog Blog</title>
-        <link>https://github.com/04kash.github.io/blog</link>
+        <link>https://github.com/blog</link>
         <description>Kashish's Blog Blog</description>
         <lastBuildDate>Fri, 18 Apr 2025 01:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Why I Started This Blog]]></title>
-            <link>https://github.com/04kash.github.io/blog/getting-started</link>
-            <guid>https://github.com/04kash.github.io/blog/getting-started</guid>
+            <link>https://github.com/blog/getting-started</link>
+            <guid>https://github.com/blog/getting-started</guid>
             <pubDate>Fri, 18 Apr 2025 01:41:03 GMT</pubDate>
             <description><![CDATA[Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).]]></description>
             <content:encoded><![CDATA[<p>Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).
