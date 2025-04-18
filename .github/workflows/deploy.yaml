@@ -30,4 +30,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEPLOYMENT_BRANCH: ${{secrets.DEPLOYMENT_BRANCH}}
         run: |
-          npm deploy
+          npm run deploy
