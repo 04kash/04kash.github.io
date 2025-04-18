@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/04kash.github.io/blog</id>
+    <title>Kashish's Blog Blog</title>
+    <updated>2025-04-18T01:41:03.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/04kash.github.io/blog"/>
+    <subtitle>Kashish's Blog Blog</subtitle>
+    <icon>https://github.com/04kash.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why I Started This Blog]]></title>
+        <id>https://github.com/04kash.github.io/blog/getting-started</id>
+        <link href="https://github.com/04kash.github.io/blog/getting-started"/>
+        <updated>2025-04-18T01:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).]]></summary>
+        <content type="html"><![CDATA[<p>Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).
+At some point, I realized I wanted a place to:</p>
+<ul>
+<li>Reflect on what I’m <span class="glow_highlight_dmJa">learning</span></li>
+<li>Share the <span class="glow_highlight_dmJa">contributions</span> I make to open source projects</li>
+<li>Write about <span class="glow_highlight_dmJa">dev concepts</span> that interest me</li>
+<li>Keep track of my <span class="glow_highlight_dmJa">growth</span> as a developer</li>
+</ul>
+<p>This blog is that space.</p>
+<p>It’s for me, but also for anyone else who might find value in the journey — especially if you’re starting out or exploring similar paths.</p>
+<p>Let’s see where this goes 🌱</p>]]></content>
+    </entry>
+</feed>

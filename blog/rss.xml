@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Kashish's Blog Blog</title>
+        <link>https://github.com/04kash.github.io/blog</link>
+        <description>Kashish's Blog Blog</description>
+        <lastBuildDate>Fri, 18 Apr 2025 01:41:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Why I Started This Blog]]></title>
+            <link>https://github.com/04kash.github.io/blog/getting-started</link>
+            <guid>https://github.com/04kash.github.io/blog/getting-started</guid>
+            <pubDate>Fri, 18 Apr 2025 01:41:03 GMT</pubDate>
+            <description><![CDATA[Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).]]></description>
+            <content:encoded><![CDATA[<p>Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).
+At some point, I realized I wanted a place to:</p>
+<ul>
+<li>Reflect on what I’m <span class="glow_highlight_dmJa">learning</span></li>
+<li>Share the <span class="glow_highlight_dmJa">contributions</span> I make to open source projects</li>
+<li>Write about <span class="glow_highlight_dmJa">dev concepts</span> that interest me</li>
+<li>Keep track of my <span class="glow_highlight_dmJa">growth</span> as a developer</li>
+</ul>
+<p>This blog is that space.</p>
+<p>It’s for me, but also for anyone else who might find value in the journey — especially if you’re starting out or exploring similar paths.</p>
+<p>Let’s see where this goes 🌱</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
