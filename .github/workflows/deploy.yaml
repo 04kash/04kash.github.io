@@ -26,7 +26,7 @@ jobs:
 
       - name: Deploy to GitHub Pages
         env:
-          GITHUB_USER: ${{ secrets.USER }}
+          GIT_USER: ${{ secrets.USER }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEPLOYMENT_BRANCH: ${{secrets.DEPLOYMENT_BRANCH}}
         run: |
