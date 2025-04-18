@@ -14,7 +14,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://kashishmittal.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -28,6 +28,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   deploymentBranch: "gh-pages",
+  customFields: {
+    cname: 'kashishmittal.dev'
+  }
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
