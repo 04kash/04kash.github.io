@@ -4,15 +4,27 @@
         <title>Kashish's Blog Blog</title>
         <link>https://kashishmittal.dev/blog</link>
         <description>Kashish's Blog Blog</description>
-        <lastBuildDate>Fri, 18 Apr 2025 01:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[From Zero to Maintainer: My Open Source Journey with Backstage]]></title>
+            <link>https://kashishmittal.dev/blog/2025/05/12/from-zero-to-maintainer</link>
+            <guid>https://kashishmittal.dev/blog/2025/05/12/from-zero-to-maintainer</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Originally published on the Backstage Blog.]]></description>
+            <content:encoded><![CDATA[<p><strong>Originally published on the <a href="https://backstage.io/blog/" target="_blank" rel="noopener noreferrer">Backstage Blog</a>.</strong></p>
+<p>This article shares my journey from submitting my first contribution to becoming a maintainer of Backstage. I talk about the challenges, the learning curve, and the rewarding experience of being part of an open source community.</p>
+<p><a href="https://backstage.io/blog/2025/05/12/from-zero-to-maintainer-my-opensource-journey-with-backstage/" target="_blank" rel="noopener noreferrer">Read the full article on Backstage.io</a></p>]]></content:encoded>
+            <category>backstage</category>
+            <category>open-source</category>
+        </item>
+        <item>
             <title><![CDATA[Why I Started This Blog]]></title>
-            <link>https://kashishmittal.dev/blog/getting-started</link>
-            <guid>https://kashishmittal.dev/blog/getting-started</guid>
-            <pubDate>Fri, 18 Apr 2025 01:41:03 GMT</pubDate>
+            <link>https://kashishmittal.dev/blog/2025/04/18/getting-started</link>
+            <guid>https://kashishmittal.dev/blog/2025/04/18/getting-started</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).]]></description>
             <content:encoded><![CDATA[<p>Over the last year, as a Software Engineering Intern at Red Hat, I’ve gotten deeper into Open Source and Software Engineering in general — and along the way, I’ve picked up a lot. From managing dependencies in Node.js, exploring containerization, navigating GitHub Workflows, becoming a maintainer in the Backstage project, to even giving presentations and submitting proposals for tech conferences — it’s been a learning curve (in the best way).
 At some point, I realized I wanted a place to:</p>
@@ -25,6 +37,18 @@ At some point, I realized I wanted a place to:</p>
 <p>This blog is that space.</p>
 <p>It’s for me, but also for anyone else who might find value in the journey — especially if you’re starting out or exploring similar paths.</p>
 <p>Let’s see where this goes 🌱</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Backstage Community Update: September 2024]]></title>
+            <link>https://kashishmittal.dev/blog/2024/09/10/backstage-community-update</link>
+            <guid>https://kashishmittal.dev/blog/2024/09/10/backstage-community-update</guid>
+            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This post is published externally on Red Hat Developer.]]></description>
+            <content:encoded><![CDATA[<p><strong>This post is published externally on <a href="https://developers.redhat.com/" target="_blank" rel="noopener noreferrer">Red Hat Developer</a>.</strong></p>
+<p>This update covers the latest developments in the Backstage community, including recent contrubtions from Red Hat, the Fall 2024 Backstage Roadmap and recent and upcoming events related to backstage.</p>
+<p><a href="https://developers.redhat.com/blog/2024/09/10/backstage-community-update-september-2024#" target="_blank" rel="noopener noreferrer">Read the full article on Red Hat Developer</a></p>]]></content:encoded>
+            <category>backstage</category>
+            <category>community</category>
         </item>
     </channel>
 </rss>
