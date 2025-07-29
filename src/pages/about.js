@@ -15,31 +15,71 @@ function Home() {
     >
       <div className={clsx(styles.about_container)}>
         <main className={clsx(styles.about_description)}>
-        <h1 className={styles.headline}>About Me</h1>
+          <h1 className={styles.headline}>About Me</h1>
           <p>
             I'm a Computer Science student at the{" "}
-            <span className={clsx(styles.glow_highlight)}>University of Toronto</span>, with a deep interest in{" "}
-            <span className={clsx(styles.glow_highlight)}>software engineering</span>.
+            <span className={clsx(styles.glow_highlight)}>
+              University of Toronto
+            </span>
+            , with a deep interest in{" "}
+            <span className={clsx(styles.glow_highlight)}>
+              software engineering
+            </span>
+            .
           </p>
 
           <p>
-            Currently a <span className={clsx(styles.glow_highlight)}>SWE Intern @ Red Hat</span>, and a <span className={clsx(styles.glow_highlight)}>Maintainer</span>{" "}
-            for the community plugins area within the <span className={clsx(styles.glow_highlight)}>Backstage Project</span>.
+            Currently a{" "}
+            <span className={clsx(styles.glow_highlight)}>
+              SWE Intern @ Red Hat
+            </span>
+            , and a{" "}
+            <span className={clsx(styles.glow_highlight)}>Maintainer</span> for
+            the community plugins area within the{" "}
+            <span className={clsx(styles.glow_highlight)}>
+              Backstage Project
+            </span>
+            .
           </p>
 
           <p>
-            I spend most of my time contributing to <span className={clsx(styles.glow_highlight)}>open source</span>, exploring new ideas, and learning by building.
+            I spend most of my time contributing to{" "}
+            <span className={clsx(styles.glow_highlight)}>open source</span>,
+            exploring new ideas, and learning by building.
           </p>
 
           <p>
             You can find most of my work on{" "}
-            <a href="https://github.com/04kash" target="_blank" rel="noopener noreferrer">
-            <span className={clsx(styles.glow_highlight)}>GitHub</span>
-            </a>. I occasionally share thoughts and things I’m learning on this{" "}
+            <a
+              href="https://github.com/04kash"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className={clsx(styles.glow_highlight)}>GitHub</span>
+            </a>
+            . I occasionally share thoughts and things I’m learning on this{" "}
             <a href="/blog">
-            <span className={clsx(styles.glow_highlight)}>blog</span>
-            </a>.
+              <span className={clsx(styles.glow_highlight)}>blog</span>
+            </a>
+            .
           </p>
+
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              marginTop: "2rem",
+            }}
+          >
+            <a
+              className="button button--primary button--lg"
+              href="/resume/Kashish_Mittal_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View My Resume
+            </a>
+          </div>
         </main>
       </div>
     </Layout>
@@ -47,5 +87,3 @@ function Home() {
 }
 
 export default Home;
-
-

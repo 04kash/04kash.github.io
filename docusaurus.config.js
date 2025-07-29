@@ -4,28 +4,28 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Kashish's Blog",
-  favicon: 'img/favicon.ico',
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://kashishmittal.dev',
+  url: "https://kashishmittal.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '04kash', // Usually your GitHub org/user name.
-  projectName: '04kash.github.io', // Usually your repo name.
+  organizationName: "04kash", // Usually your GitHub org/user name.
+  projectName: "04kash.github.io", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
   trailingSlash: false,
   deploymentBranch: "gh-pages",
 
@@ -33,29 +33,29 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: false,
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -69,25 +69,25 @@ const config = {
         logo: {
           alt: "My Blog",
           src: "img/logo.png",
-          className: 'custom-navbar-logo',
+          className: "custom-navbar-logo",
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/about', label: 'About Me', position:'right'},
+          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/about", label: "About Me", position: "right" },
           {
-            href: 'https://github.com/04kash',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/04kash",
+            label: "GitHub",
+            position: "right",
           },
           {
-            label: 'LinkedIn',
-            href: 'https://www.linkedin.com/in/kashmitt/',
-            position: 'right',
+            label: "LinkedIn",
+            href: "https://www.linkedin.com/in/kashmitt/",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         copyright: `Copyright © ${new Date().getFullYear()} Built with ❤️ by Kashish`,
       },
       prism: {

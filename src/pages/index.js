@@ -35,7 +35,6 @@ function Home() {
             <Highlight>open source contributions</Highlight> and my growth as a
             developer.
             <br />
-            New post every <Highlight>two weeks</Highlight>.
           </p>
           <div className={clsx(styles.buttonGroup)}>
             <Link
